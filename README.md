@@ -7,4 +7,4 @@ Installation Steps
 Should you need to add more modules:
 1. Open "Anaconda prompt"
 2. Run conda activate cits3200
-3. Run conda install <something something>
+3. Run conda install ...
